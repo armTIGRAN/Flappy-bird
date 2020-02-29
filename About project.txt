@@ -1,0 +1,6 @@
+>Project name: Flappy bird
+>Description: Old flappy bird game on javascript
+>Data: September 2019
+>Version: V1.0.0
+>Project meaning: practice javascript 
+>Additionally: Made using resource https://www.youtube.com/watch?v=1ieQD20Cs0o
